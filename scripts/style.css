@@ -1,0 +1,10 @@
+/* style sheet for ccllc github website */
+
+
+.IntroVid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 30%;
+  height: auto;
+}
